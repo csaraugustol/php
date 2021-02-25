@@ -42,6 +42,7 @@
         echo 'A diferença de dias entre as datas é de: ' . $diferenca_dias . ' dias.'
 
 
+
         
     ?>
 </body>
